@@ -1,0 +1,30 @@
+.login_body{
+    background-color: lightblue;
+}
+.login{
+  
+    margin-top: 60px;
+    background-color: lightcoral;
+    border: 5px solid blue;
+    width: 300px;
+    text-align: center;
+    margin-left: 425px;
+    
+}
+.login #submit{
+    width: 191px;
+    background-color:lightskyblue;
+}
+
+.signup{
+    margin-top: 60px;
+    background-color: yellowgreen;
+    border: 10px solid green;
+    width: 500px;
+    text-align: center;
+    margin-left: 400px;
+}
+.signup #login_button{
+    width: 191px;
+    background-color:lightgreen;
+}
